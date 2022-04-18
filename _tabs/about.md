@@ -10,4 +10,5 @@ I'd be grateful if you took everything written here with a grain of salt, as I'm
 
 Place your bets on whether or not I'm finishing anything that I'll be posting about. And feel free to contact me through my linked socials at the bottom of the sidebar. Enjoy my various errands and rants.
 
-![My OSRS character with a Ranger Void Helm](../assets/img/favicons/android-chrome-96x96.png)
+![My OSRS character with a Void ranger helm](../assets/img/favicons/android-chrome-96x96.png)
+_My OSRS character with a Void ranger helm_
