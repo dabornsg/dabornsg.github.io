@@ -116,7 +116,7 @@ class DigdugEnv(gym.Env):
         if reward_type == 'score':
             reward = data.score - score
         else:
-            reward = data.enemies - enemies
+            reward = enemies - data.enemies
         lives = data.lives
         score = data.score
         enemies = data.enemies
